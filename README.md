@@ -58,5 +58,5 @@ Enjoy!
 
 * Robin Wen
 * Gmail：dbarobinwen@gmail.com
-* CSDN：http://blog.csdn.net/justdb
+* Blog：http://dbarobin.com
 * GitHub：https://github.com/dbarobin
