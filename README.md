@@ -57,6 +57,6 @@ Enjoy!
 温国兵
 
 * Robin Wen
-* Gmail：dbarobinwen@gmail.com
+* Gmail：blockxyz@gmail.com
 * Blog：http://dbarobin.com
 * GitHub：https://github.com/dbarobin
